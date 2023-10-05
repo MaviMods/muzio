@@ -21,7 +21,7 @@ Muzio is a versatile and user-friendly Discord music bot that allows you to play
 ## Getting Started
 
 1. **Fork This Code**
-    [![Muzio DIscord Bot](https://replit.com/badge)](https://replit.com/github/ScienceGear/muzio)
+    [![Muzio DIscord Bot](https://replit.com/badge)](https://replit.com/github/MaviMods/muzio)
 
 2. **Configuration**
    - edit `config.json` file in the root directory with your bot token and other settings:
